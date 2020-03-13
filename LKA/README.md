@@ -1,5 +1,5 @@
 #### Sri Lanka Road Optimization
-This notebook is part of a Sri Lanka tourism project that measures the distance from airports to district capitals to toursim destinations. 
+This notebook is part of a world bank tourism project for Sri Lanka. The analysis measures driving travel time from airports to district capitals to toursim destinations, and identifies high-use roads for rehabilitation.
 
 #### Workflow
 - part 1: OD Airport to major cities
