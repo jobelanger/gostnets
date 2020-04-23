@@ -1,4 +1,4 @@
-input and intermediary data for running sri lanka gostnets 
+input data for running sri lanka gostnets. edges and graphs are too large for import to github.
 
 contains:
  
@@ -6,4 +6,3 @@ contains:
   - Ratmalana Airport
   - major cities
   - tourism destinations
-- joined mapbox traffic data
